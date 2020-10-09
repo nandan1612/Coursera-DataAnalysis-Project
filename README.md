@@ -1,2 +1,2 @@
-# Coursera-MAchineLearning-Project
-Coursera Peer Graded Assignment on Machine Learning With Python
+# Coursera-DataAnalysis-Project
+Coursera Peer Graded Assignment on Data Analysis With Python
